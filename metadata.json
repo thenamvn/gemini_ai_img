@@ -1,0 +1,6 @@
+{
+  "name": "Batch Image AI Studio",
+  "description": "Batch process and transform folders of images with AI prompts, per-image control, selection tools, and bulk generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
